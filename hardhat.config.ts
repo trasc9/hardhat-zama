@@ -26,7 +26,7 @@ export default config;
 # optimize scripts and adjust paths
 # update hardhat config for new RPC endpoint
 # improve folder organization and file naming
-#
+# update .env.example with new variables
 #
 #
 #
