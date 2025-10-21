@@ -28,5 +28,5 @@ export default config;
 # improve folder organization and file naming
 # update .env.example with new variables
 #
-#
+# 
 #
