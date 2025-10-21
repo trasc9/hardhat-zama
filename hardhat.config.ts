@@ -21,7 +21,7 @@ const config: HardhatUserConfig = {
 export default config;
 
 # update package versions and dependencies
-#
+# improve contract comments and formatting
 #
 #
 #
