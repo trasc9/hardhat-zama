@@ -27,6 +27,6 @@ export default config;
 # update hardhat config for new RPC endpoint
 # improve folder organization and file naming
 # update .env.example with new variables
-#
+# update documentation for clarity
 # 
 #
