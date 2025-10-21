@@ -25,7 +25,7 @@ export default config;
 # update tsconfig and build configuration
 # optimize scripts and adjust paths
 # update hardhat config for new RPC endpoint
-#
+# improve folder organization and file naming
 #
 #
 #
