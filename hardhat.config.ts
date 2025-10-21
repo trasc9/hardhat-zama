@@ -20,13 +20,4 @@ const config: HardhatUserConfig = {
 
 export default config;
 
-# update package versions and dependencies
-# improve contract comments and formatting
-# update tsconfig and build configuration
-# optimize scripts and adjust paths
-# update hardhat config for new RPC endpoint
-# improve folder organization and file naming
-# update .env.example with new variables
-# update documentation for clarity
-# 
-#
+
